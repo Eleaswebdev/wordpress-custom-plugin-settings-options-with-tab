@@ -1,4 +1,4 @@
-What is this?
+What is this???????????????
 ---------------
 
 It's a PHP class wrapper for handling WordPress [Settings API](http://codex.wordpress.org/Settings_API). Gives a very handy way to build theme or plugins option panel.
