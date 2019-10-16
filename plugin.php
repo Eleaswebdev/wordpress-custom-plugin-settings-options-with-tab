@@ -3,7 +3,7 @@
  * Plugin Name: WordPress Settings API With Tab complete
  * Plugin URI: https://tareq.co/2012/06/wordpress-settings-api-php-class/
  * Description: WordPress Settings API testing
- * Author: Barry Eleas
+ * Author: Barry Eleas......
  * Author URI: https://github.com/tareq1988/wordpress-settings-api-class
  * Version: 1.3
  */
